@@ -4,6 +4,6 @@ sqlalchemy
 pydantic
 alembic
 pandas
-python-
+python-multipart
 openpyxl
 reportlab
